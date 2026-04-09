@@ -1,13 +1,14 @@
 # Superstore Sales Analysis | Microsoft Excel
 
 ## Overview
-I analyzed a Superstore sales dataset using Microsoft Excel to explore 
-sales performance, profitability, and customer trends. The project 
-involved data quality checks, 10 pivot table analyses, formula 
-demonstrations, and a 5-chart dashboard.
+I analyzed a Superstore sales dataset using Microsoft Excel to explore
+sales performance, profitability, and customer trends. The project
+involved data quality checks, 10 Pivot Table analyses, formula
+demonstrations using VLOOKUP, SUMIF and XLOOKUP, and a 5-chart
+dashboard built from Pivot Tables.
 
 ## Tools
-- Microsoft Excel (Pivot Tables, Charts, Formulas)
+- Microsoft Excel (Pivot Tables, Charts, VLOOKUP, SUMIF, XLOOKUP)
 
 ## Dataset
 - Source: Kaggle
